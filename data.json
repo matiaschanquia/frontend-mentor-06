@@ -1,12 +1,12 @@
 [
   {
     "category": "Reaction",
-    "score": 50,
+    "score": 56,
     "icon": "./assets/images/icon-reaction.svg"
   },
   {
     "category": "Memory",
-    "score": 2,
+    "score": 43,
     "icon": "./assets/images/icon-memory.svg"
   },
   {
